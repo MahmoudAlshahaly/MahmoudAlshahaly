@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **AS3A Company Saudi Arabia**
 
-- 🌱 I’m currently learning **Microservice Architecture, Docker, Kubernate,Rabbit MQ and Redis**
+- 🌱 I’m currently learning **Microservice Architecture, Docker, Kubernate, Rabbit MQ, Observablitiy and Redis**
 
 - 💬 Ask me about **Back End (.Net Technologies) ,Front End (Angular)**
 
