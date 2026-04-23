@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudahmed" /> </p>
 
-- 🔭 I’m currently working in **Andalusia Health KSA Company Saudi Arabia**
+- 🔭 I’m currently working in **Meccasoft Company United States**
 
-- 🌱 I’m currently learning **Microservice Architecture, Docker, Kubernate, Rabbit MQ, Observablitiy and Redis**
+- 🌱 I’m currently learning **System Design and Solution Architect**
 
 - 💬 Ask me about **Back End (.Net Technologies) ,Front End (Angular)**
 
